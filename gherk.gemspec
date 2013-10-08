@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Gherk::VERSION
   spec.authors       = ["TJ Stankus"]
   spec.email         = ["tj@stank.us"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Gherkin RSpec formatter for feature specs}
+  spec.summary       = %q{Gherkin RSpec formatter}
+  spec.homepage      = "https://github.com/tjstankus/gherk"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
