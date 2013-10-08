@@ -5,7 +5,7 @@ require 'gherk/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "gherk"
-  spec.version       = Gherk::VERSION
+  spec.version       = '0.0.1'
   spec.authors       = ["TJ Stankus"]
   spec.email         = ["tj@stank.us"]
   spec.description   = %q{Gherkin RSpec formatter for feature specs}
